@@ -1,4 +1,4 @@
-# <img width="50" align="center" alt="Templates" src="https://github.com/user-attachments/assets/6fd97bdb-657d-47c5-9ef3-1e71996dc487" /> PLUM-Project
+# <img width="50" height="512" alt="user-experience" src="https://github.com/user-attachments/assets/65184110-445a-42d2-8d07-b3f9058049b6" /> PLUM-Project
 
 Prepared Library of UI Material) Project - This is an ongoing project to develop and enhance Course Templates and address a number of challenges in course development.
 
