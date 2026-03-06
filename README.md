@@ -4,7 +4,7 @@ PLUM (Prepared Library of UI Material) - This is an ongoing project to develop a
 
 *The PLUM Components Library - Table of Contents and Theme Widget*
 
-<img width="600" alt="PLUM Table of Contents" src="https://github.com/user-attachments/assets/66abaa08-d66e-4e77-8fae-927db4638980" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f722d5e5-8a30-47e5-afdf-429f7eac8765" />
 
 *The PLUM Course Matrix - Showcase Carousel and Table with Editor*
 
