@@ -1,4 +1,4 @@
-# <img width="50" alt="PLUM_logo" src="https://github.com/user-attachments/assets/00b8760a-cad3-4706-942b-6ad1208205f2" /> PLUM Project
+# <img width="150" alt="PLUM_logo" src="https://github.com/user-attachments/assets/00b8760a-cad3-4706-942b-6ad1208205f2" /> PLUM Project
 
 PLUM (Prepared Library of UI Material) - This is an ongoing project to develop and enhance Course Templates and address a number of challenges in course development.
 
