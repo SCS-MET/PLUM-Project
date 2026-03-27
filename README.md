@@ -5,7 +5,7 @@ An ongoing project to develop and enhance Course Templates and address a number 
 
 *The PLUM Components Library - Table of Contents and Theme Widget*
 
-<img width="600" alt="Image" src="images/Library.png" />
+<img width="600" alt="Components Library" src="Images/Library.png" />
 
 *The PLUM Course Matrix - Showcase Carousel and Table with Editor*
 
