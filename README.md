@@ -1,5 +1,4 @@
-# <img width="100" alt="PLUM_logo_round" src="images/PLUM_LOGO.png" /> 
-
+# <img src="images/PLUM_LOGO.png" width="100" alt="PLUM LOGO (Round)">
 PLUM (Prepared Library of UI Material)
 
 An ongoing project to develop and enhance Course Templates and address a number of challenges in course development.
