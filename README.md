@@ -1,3 +1,5 @@
+<img width="100" alt="PLUM_logo_trans" src="https://github.com/user-attachments/assets/eb1f9bd1-bc29-47e1-af20-2bdb1a6477e8" />
+
 # <img src="Images/PLUM_LOGO.png" width="100" alt="PLUM LOGO (Round)">
 PLUM (Prepared Library of UI Material)
 
